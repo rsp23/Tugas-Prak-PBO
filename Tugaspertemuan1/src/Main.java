@@ -43,7 +43,7 @@ public class Main {
             pilihan = input.next().charAt(0);
             
             if (pilihan == '1') {
-                dataMahasiswa.tampilkanData();
+                dataMahasiswa.tampilkanData();  
             }else if (pilihan == '2') {
                 input.nextLine();
                 System.out.println("\n\nEdit Data ====");

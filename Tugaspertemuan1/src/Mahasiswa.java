@@ -24,6 +24,8 @@ public class Mahasiswa {
     }
     
     
+    
+    
     void tampilkanData(){
         System.out.println("\n\nPerkenalkan nama saya " + nama + " Nim " + nim + " ,");
         System.out.println("Usia    : "+usia);
